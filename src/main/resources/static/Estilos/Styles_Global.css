@@ -1,0 +1,17 @@
+
+:root{
+    --ColorPrimario: 04D9C4; /* verde agua */
+    --Color1: #0477BF; /* Azul */
+    --Color2: #05C7F2; /* celeste */
+    --color3: #05F29B; /* verde claro*/
+    --color4: #05F26C; /* verde */
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: var(--ColorPrimario);
+}
