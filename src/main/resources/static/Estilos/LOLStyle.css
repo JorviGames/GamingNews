@@ -1,0 +1,22 @@
+
+.LOL-texto{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 55px;
+    font-family: Arial, Bold;
+    color: #0577BE;
+    text-shadow: 10px 8px 6px #000000A8;
+}
+
+.LOL-videos{
+    display:flex;
+    justify-content: center;
+    padding: 5%;
+}
+
+.LOL-videos-Texto{
+    font-size: 25px;
+    display: flex;
+    padding: 10px;
+}

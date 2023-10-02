@@ -1,0 +1,76 @@
+
+.imgen{
+    position: relative;
+    display: flex;
+    margin: auto;
+    margin-top: 10px; 
+    opacity: 0.78;
+}
+
+.encabezado{
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    padding: 10px;
+}
+
+.encabezado-texto{
+    font-family: Arial;
+    font-size: 45px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+.encabezado-texto{
+    margin: 0;
+}
+
+/* parte de Abajo */
+
+.Abajo{
+    display: flex;
+    position: absolute;
+    top: 73%;
+    left: 34px;
+    padding: 10px;
+}
+.Abajo-texto{
+    font-family: Arial;
+    font-size: 45px;
+    line-height: 1.5;
+    margin-top: 20px;
+}
+.Abajo-texto{
+    margin: 0;
+}
+
+.Botones{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 10% auto;
+}
+
+.Botones-nav1, .Botones-nav2, .Botones-nav3{
+    margin: 0 5%;
+    font-family: Sogoe UI, Bold;
+    font-size: 40px;
+}
+.Botones-nav1{
+    background-color: #0577BE;
+    padding: 55px 55px;
+    border-radius: 35px;
+    color: #05F26C;
+}
+
+.Botones-nav2{
+    background-color: #06C7F2;
+    padding: 55px 55px;
+    border-radius: 35px;
+    color: #000000;
+}
+.Botones-nav3{
+    background-color: #05F29A;
+    padding: 55px 55px;
+    border-radius: 35px;
+    color: #0577BE;
+}
